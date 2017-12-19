@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Admin/PhpstormProjects/pioneer/vagrant","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/sync":{"guestpath":"/home/vagrant/sync","hostpath":"C:/Users/Admin/PhpstormProjects/pioneer/sync","disabled":false,"__vagrantfile":true}}}

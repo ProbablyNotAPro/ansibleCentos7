@@ -28,11 +28,11 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     # config.vm.network "forwarded_port", guest:9200, host: 62000
 
     # Register All Of The Configured Shared Folders
-    config.vm.synced_folder "~/PhpstormProjects/pioneer/sync", "/home/vagrant/sync"
+    config.vm.synced_folder "~/PhpstormProjects/ansibleCentos7/sync", "/home/vagrant/sync"
 
     # Install Ansible
-    config.vm.provision "shell", path: "~/PhpstormProjects/pioneer/vagrant/ansible.sh"
+    config.vm.provision "shell", path: "~/PhpstormProjects/ansibleCentos7/vagrant/ansible.sh"
 
     # Install Personal bash_aliases
-    config.vm.provision "shell", path: "~/PhpstormProjects/pioneer/vagrant/bash_aliases.sh"
+    config.vm.provision "shell", path: "~/PhpstormProjects/ansibleCentos7/vagrant/bash_aliases.sh"
 end
