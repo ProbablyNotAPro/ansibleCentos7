@@ -1,1 +1,6 @@
-Test
+ - hosts: all
+   roles:
+    - basics
+    - nginx
+    - php
+    - mariadb
