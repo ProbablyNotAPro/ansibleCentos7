@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98617074-5189-41e4-86ab-fd6f5d90390c" name="Default" comment="commit 1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sync/ansible/playbook.yml" />
-    </list>
+    <list default="true" id="98617074-5189-41e4-86ab-fd6f5d90390c" name="Default" comment="commit 1" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +220,7 @@
       <updated>1513705488413</updated>
       <workItem from="1513705489878" duration="1529000" />
       <workItem from="1513707057326" duration="1120000" />
-      <workItem from="1513708295955" duration="1255000" />
+      <workItem from="1513708295955" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1">
       <created>1513707223501</created>
@@ -242,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3904000" />
+    <option name="totallyTimeSpent" value="3957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
