@@ -1,7 +1,0 @@
----
-- name: install elastic scripts
-  hosts: remote
-  become: yes
-
-  roles:
-   - elastic_index_scripts

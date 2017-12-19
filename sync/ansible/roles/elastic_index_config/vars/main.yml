@@ -1,3 +1,0 @@
----
-index_name: "insiite_data"
-index_config: "{{ lookup('file','/home/vagrant/sync/projects/bluemonkey/elastic_config/insiite_elastic_config.json') }}"

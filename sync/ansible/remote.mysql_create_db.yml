@@ -1,8 +1,0 @@
----
-- name: Create database
-  hosts: remote
-  become: yes
-
-  roles:
-      - mysql_create_db
-
