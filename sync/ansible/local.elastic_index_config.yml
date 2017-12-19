@@ -1,7 +1,0 @@
----
-- name: PUT elastic index config
-  hosts: localhost
-  become: yes
-
-  roles:
-   - elastic_index_config

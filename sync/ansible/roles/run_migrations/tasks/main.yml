@@ -1,4 +1,0 @@
----
-- name: Run php artisan migrate
-  command: php artisan migrate chdir={{ project_folder }}
-

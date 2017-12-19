@@ -1,8 +1,0 @@
----
-- name: Install PhantomJS
-  hosts: local
-  become: yes
-
-  roles:
-      - phantomjs
-

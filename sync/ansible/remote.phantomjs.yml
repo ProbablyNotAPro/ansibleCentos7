@@ -1,8 +1,0 @@
----
-- name: Install PhantomJS
-  hosts: remote
-  become: yes
-
-  roles:
-      - phantomjs
-
